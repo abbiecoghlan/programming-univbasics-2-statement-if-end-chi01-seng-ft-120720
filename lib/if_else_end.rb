@@ -1,2 +1,2 @@
 # Write your solution here
-if 
+if < time 
