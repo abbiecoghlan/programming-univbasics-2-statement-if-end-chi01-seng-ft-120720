@@ -1,2 +1,2 @@
 # Write your solution here
-if < time 
+if < Time.now.strftime("%S") % 
