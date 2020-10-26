@@ -1,5 +1,5 @@
 # Write your solution here
-if Time.now.strftime("%S") % 2 == 0 
+if Time.now.strftime("%S").to_i % 2 == 0 
   puts "Even!"
 
 else 
